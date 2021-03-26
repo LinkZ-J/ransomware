@@ -1,0 +1,4 @@
+BitIdine 的appendix里面包含了cryptoLock经其cluster算法扩展出来的地址.可以作为验证
+除了seedAddress.csv内的种子地址,还有文件囊括了扩展出来的external address,也可以作为验证.
+
+可以按照Ransomeware Payment in the Bitocin Ecosysyem一文Table1中各勒索软件的排名顺序去进行实验.
